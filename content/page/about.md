@@ -7,10 +7,11 @@ aliases:
   - about-hugo
   - contact
 license: CC BY-NC-ND
-lastmod: '2020-10-09'
+lastmod: '2021-03-17'
 menu:
     main:
         weight: -90
         pre: user
 ---
 
+いつか書く。
