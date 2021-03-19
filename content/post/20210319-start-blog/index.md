@@ -7,7 +7,7 @@ image:
 math: 
 license: 
 hidden: false
-comments: true
+draft: false
 ---
 
 もはや何回目のブログなのかわからないが、また性懲りもなくブログを始めてみることにした。  
