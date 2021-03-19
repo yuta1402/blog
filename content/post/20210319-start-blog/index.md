@@ -2,6 +2,7 @@
 title: "ブログを始めてみた"
 description: 
 date: 2021-03-19T00:30:00+09:00
+slug: 20210319-start-blog
 image: 
 math: 
 license: 
