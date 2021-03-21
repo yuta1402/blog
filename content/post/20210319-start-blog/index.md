@@ -7,6 +7,8 @@ image:
 math: 
 license: 
 hidden: false
+categories:
+    - 日記
 draft: false
 ---
 
